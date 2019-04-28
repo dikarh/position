@@ -1,34 +1,23 @@
 {
 	"resultado": {
-		 "data": [
-		    {
-			"id": 1,
-			"postalCode" : "04815",
-				"neighborhood" : "Emiliano Zapata",
-				"township" : "Coyoacan",
-				"stateKey" : "CDMX",
-				"state" : "Ciudad de México",
-				"city" : "Coyoacan"
-		    }, 
-		    {
-			"id": 2,
-			"postalCode" : "04815",
-				"neighborhood" : "Lomas de Zaragoza",
-				"township" : "Coyoacan",
-				"stateKey" : "CDMX",
-				"state" : "Ciudad de México",
-				"city" : "Coyoacan"
-		    },
-		    {
-			"id": 3,
-			"postalCode" : "04815",
-				"neighborhood" : "Actipan",
-				"township" : "Coyoacan",
-				"stateKey" : "CDMX",
-				"state" : "Ciudad de México",
-				"city" : "Coyoacan"
-		    }
-		  ],
+		 "data": [ {
+		"active":1,
+		"description": "BANCOMER",
+		"bankId": 1,
+		"keyBank": "012"},
+		{
+		"active":1,
+		"description": "BANAMEX",
+		"bankId": 2,
+		"keyBank": "002"},
+		{
+		"active":1,
+		"description": "SANTANDER",
+		"bankId": 3,
+		"keyBank": "014"},
+
+	],
+
  	"codeHttpStatus" : 200
 	}
 }
