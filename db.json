@@ -4,21 +4,48 @@
 		"active":1,
 		"description": "DIRECTOR GENERAL",
 		"positionId": 1,
-		"area": "DIRECCION"},
+		"area":  {
+		"active":1,
+		"description": "DIRECCION",
+		"areaId": 1,
+		"sector":{
+			"sectorId": 1,
+			"description": "SALUD"
+				}
+			}
+		},
 		{
 		"active":1,
 		"description": "GERENTE",
 		"positionId": 2,
-		"area": "DIRECCION"},
+		"area":  {
+		"active":1,
+		"description": "DIRECCION",
+		"areaId": 1,
+		"sector":{
+			"sectorId": 1,
+			"description": "SALUD"
+			}
+		}
+	},
 		{
 		"active":1,
 		"description": "AUXILIAR",
 		"positionId": 3,
-		"area": "DIRECCION"}
+		"area":  {
+		"active":1,
+		"description": "DIRECCION",
+		"areaId": 1,
+		"sector":{
+			"sectorId": 1,
+			"description": "SALUD"
+				}
+			}
+
+		}
 
 	],
 
  	"codeHttpStatus" : 200
 	}
-
 }
