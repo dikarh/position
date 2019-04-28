@@ -2,19 +2,19 @@
 	"resultado": {
 		 "data": [ {
 		"active":1,
-		"description": "BANCOMER",
-		"bankId": 1,
-		"keyBank": "012"},
+		"description": "DIRECTOR GENERAL",
+		"positionId": 1,
+		"area": "DIRECCION"},
 		{
 		"active":1,
-		"description": "BANAMEX",
-		"bankId": 2,
-		"keyBank": "002"},
+		"description": "GERENTE",
+		"positionId": 2,
+		"area": "DIRECCION"},
 		{
 		"active":1,
-		"description": "SANTANDER",
-		"bankId": 3,
-		"keyBank": "014"},
+		"description": "AUXILIAR",
+		"positionId": 3,
+		"area": "DIRECCION"},
 
 	],
 
